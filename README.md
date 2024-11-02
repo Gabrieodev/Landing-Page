@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido em um bootcamp da [DIO](https://dio.me/), com o objetivo de criar uma landing page para uma trilha de CSS. Utilizando apenas HTML e CSS, para demonstrar a estrutura e os estilos fundamentais de uma página web.
 
-![Screenshot da Landing Page]()
+![Screenshot da Landing Page](./assets/images/Screenshot.png)
 
 ## 🚀 Acesso ao Projeto
 
